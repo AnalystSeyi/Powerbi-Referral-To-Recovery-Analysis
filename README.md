@@ -32,7 +32,7 @@ A **static image preview** of the dashboard is provided below for reference:
 
 ## 1️⃣ Treatment Commencement Completeness
 **Insight:**  
-Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment commencement date, leaving **30.84% unrecorded**. This suggests that nearly one-third of patient treatment data is incomplete, which can impact performance tracking, care continuity, and accurate reporting on treatment initiation rates. This incomplete data impedes accurate performance analysis.
+Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment commencement date, leaving **30.84% unrecorded**. This suggests that nearly one-third of patient treatment data is incomplete, which can impact accurate reporting on treatment initiation rates, performance tracking, and care continuity. This incomplete data impedes accurate performance analysis.
 
 **Recommendation:**  
 - Enforce mandatory data capture for treatment commencement.  
@@ -40,6 +40,157 @@ Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment c
 - Conduct staff retraining on data entry and process compliance.  
 
 📊 **Insert Dashboard Screenshot Here**  
-![Referral Reason Chart](Dashboard_Screenshots/2.1 Treatment Commencement Completeness.png)
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
 
 ---
+
+## 2️⃣ Referral Volume Trend (January–June)
+**Insight:**  
+All referrals were received within six months from January to June. Referral numbers rose from **1,767 in January** to a **peak of 2,159 in March**, dipped slightly in April, and rose again to **2,038 by June**. This indicates fluctuating demand early in the year with a stable upward trend in midyear.
+
+**Recommendation:**  
+- Monitor referral patterns to align staffing and capacity during high-demand months.  
+- Investigate causes of referral spikes (e.g., seasonal trends or campaigns).  
+- Develop predictive dashboards to anticipate referral fluctuations.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 3️⃣ Most Common Reason for Referral
+**Insight:**  
+The most frequent referral reason is **“No Record”**, accounting for **34.71% (3,992 of 11,501)**. This highlights a significant data completeness issue, limiting the ability to identify actual reasons for referral.
+
+**Recommendation:**  
+- Make “Referral Reason” a mandatory data field.  
+- Conduct regular data audits to identify missing entries.  
+- Provide staff training on accurate data input.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 4️⃣ On-Time Treatment Rate (Within 18 Weeks)
+**Insight:**  
+Among patients with a recorded commencement date, **86.41%** completed treatment within **18 weeks (6,873 of 7,954)**. However, considering all patients, only **59.76%** met the 18-week target. While recorded cases show strong adherence to the target, the unrecorded or delayed cases lower the hospital’s overall on-time treatment rate. This gap indicates incomplete data and delayed treatment starts impact performance results.
+
+**Recommendation:**  
+- Improve data completeness to reflect true on-time rates.  
+- Implement real-time alerts for cases approaching the 18-week threshold.  
+- Review scheduling efficiency and staff capacity to minimize delays.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 5️⃣ 18-Week Wait Time Trend (January–November)
+**Insight:**  
+The percentage of patients starting treatment within 18 weeks **peaked at 100% in April and May**, then **declined steadily** to just **5.03% by November**. This sharp decline signals worsening timeliness and possible capacity strain in the latter half of the year.
+
+**Recommendation:**  
+- Analyze operational or resource constraints from midyear onward.  
+- Apply load balancing and capacity planning strategies.  
+- Introduce monthly KPI tracking dashboards to spot declining trends early.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 6️⃣ Best Recovery Rate by Referral Reason
+**Insight:**  
+Patients referred for **Mixed Anxiety and Depressive Disorder** achieved the **highest recovery rate at 60%**, outperforming other conditions. This suggests effective treatment methods and strong patient engagement for this group.
+
+**Recommendation:**  
+- Analyze successful interventions used in these cases.  
+- Replicate best practices across lower-performing conditions.  
+- Maintain regular outcome monitoring for sustained improvement.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 7️⃣ Discharge Eligibility and Overall Recovery
+**Insight:**  
+Only **2,880 of 11,501 patients (25%)** were eligible for discharge, with a **52.74% recovery rate** among them (**1,519 recovered**). While the recovery rate for discharged patients is moderate, the low proportion of discharge-eligible records suggests incomplete discharge documentation or possible gaps in patient follow-up recording. This limits the ability to assess true recovery outcomes across the entire patient population.
+
+**Data Quality Concerns:**  
+- Missing discharge and recovery data for 75% of patients.  
+- Inconsistent data entry across sites or teams.
+  
+**Recommendation:**  
+- Conduct comprehensive data quality reviews.  
+- Standardize discharge procedures and ensure full data capture.  
+- Implement validation rules and automated data checks in Power BI.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 8️⃣ Recovery Rate Trend (January–December)
+**Insight:**  
+Recovery rates began around **45–50% early in the year**, peaked near **67% in May**, and declined to about **40% by December**. The downward trend implies possible reductions in treatment effectiveness or patient follow-up quality.
+
+**Recommendation:**  
+- Identify factors driving post-midyear decline (e.g., staffing, treatment duration).  
+- Strengthen post-treatment follow-up processes.  
+- Use predictive analytics to flag high-risk non-recovery cases.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+
+---
+
+## 4️⃣ What other information would you highlight to the service lead? Are there any data quality issues or recommendations?
+
+**Key Observations:**  
+- Only **2,880 out of 11,501 patients (25%)** were eligible for discharge.  
+- Of these, **1,519 patients (52.74%) recovered**, meeting the 50% target **only among discharged patients**.  
+- **75% of patients** lack discharge eligibility status — a major **data completeness issue**.
+
+**Data Quality Concerns:**  
+- Missing referral reasons (“No Record” = 34.71%).  
+- Missing treatment commencement data (30.84% unrecorded).  
+- Missing discharge and recovery documentation for 75% of patients.
+
+**Recommendation:**  
+- Perform **data quality audits** and enforce **standardized recording**.  
+- Implement **data validation rules** and **mandatory fields**.  
+- Introduce **Power BI completeness dashboards** by team or month.  
+- Provide **training and accountability** for staff responsible for data entry.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![Data Quality Overview](Dashboard_Screenshots/data_quality_issues.png)`
+
+---
+
+## 4️⃣ What other information would you highlight to the service lead? Are there any data quality issues or recommendations?
+
+**Key Observations:**  
+- Only **2,880 out of 11,501 patients (25%)** were eligible for discharge.  
+- Of these, **1,519 patients (52.74%) recovered**, meeting the 50% target **only among discharged patients**.  
+- **75% of patients** lack discharge eligibility status — a major **data completeness issue**.
+
+**Data Quality Concerns:**  
+- Missing referral reasons (“No Record” = 34.71%).  
+- Missing treatment commencement data (30.84% unrecorded).  
+- Missing discharge and recovery documentation for 75% of patients.
+
+**Recommendation:**  
+- Perform **data quality audits** and enforce **standardized recording**.  
+- Implement **data validation rules** and **mandatory fields**.  
+- Introduce **Power BI completeness dashboards** by team or month.  
+- Provide **training and accountability** for staff responsible for data entry.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![Data Quality Overview](Dashboard_Screenshots/data_quality_issues.png)`
+
+---
+
+
+
