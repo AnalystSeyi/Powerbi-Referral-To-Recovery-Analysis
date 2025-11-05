@@ -32,7 +32,7 @@ A **static image preview** of the dashboard is provided below for reference:
 
 ## 1️⃣ Treatment Commencement Completeness
 **Insight:**  
-Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment commencement date, leaving **30.84% unrecorded**. This suggests that nearly one-third of patient treatment data is incomplete, which can impact accurate reporting on treatment initiation rates, performance tracking, and care continuity. This incomplete data impedes accurate performance analysis.
+Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment commencement date, leaving **30.84% unrecorded**. This means nearly one-third of patient treatment data is incomplete — a gap that undermines accurate reporting, performance tracking, and care continuity. Such incompleteness reduces confidence in performance evaluation.
 
 **Recommendation:**  
 - Enforce mandatory data capture for treatment commencement.  
@@ -46,7 +46,7 @@ Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment c
 
 ## 2️⃣ Referral Volume Trend (January–June)
 **Insight:**  
-All referrals were received within six months from January to June. Referral numbers rose from **1,767 in January** to a **peak of 2,159 in March**, dipped slightly in April, and rose again to **2,038 by June**. This indicates fluctuating demand early in the year with a stable upward trend in midyear.
+All referrals were received over a six-month period (January–June). Referral numbers rose from **1,767 in January** to a **peak of 2,159 in March**, dipped slightly in April, and rose again to **2,038 by June**. This indicates fluctuating demand early in the year with a stable upward trend in midyear.
 
 **Recommendation:**  
 - Monitor referral patterns to align staffing and capacity during high-demand months.  
@@ -146,7 +146,7 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 
 ---
 
-## Highlighting Data Quality Issues and Recommendations to the Service Lead
+## 9️⃣ Highlighting Data Quality Issues and Recommendations to the Service Lead
 
 **Key Observations:**  
 - Only **2,880 out of 11,501 patients (25%)** were eligible for discharge.  
@@ -169,7 +169,7 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 
 ---
 
-## 5️⃣ Presenting Insights to Different Audiences
+## 🔟 Presenting Insights to Different Audiences
 | **Audience** | **Focus** | **Presentation Style** |
 |---------------|-----------|------------------------|
 | **Executives / Senior Management** | Strategic KPIs, overall trends, and improvement impact | High-level dashboards with summary metrics and short recommendations |
