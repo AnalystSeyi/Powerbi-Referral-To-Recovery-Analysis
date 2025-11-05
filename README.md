@@ -207,3 +207,8 @@ By improving data quality, monitoring KPIs consistently, and applying data-drive
 
 ---
 
+### 👤 Author
+**Oluwaseyi Fatuase**  
+*Data Analyst | Power BI Developer*  
+📧 [analystseyi@gmail.com](mailto:analystseyi@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
