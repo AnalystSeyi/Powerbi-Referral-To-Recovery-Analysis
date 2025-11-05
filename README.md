@@ -182,7 +182,7 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 
 ## 🧠 Overall Summary
 This analysis shows that while discharged patients meet the 50% recovery target, incomplete data significantly limits visibility of total service performance.  
-On-time treatment rates and recovery outcomes **decline over time**, indicating operational challenges and inconsistent data entry.  
+The decline in both on-time treatment and recovery performance over time suggests systemic operational challenges and data consistency issues requiring targeted intervention.  
 
 **Key Actions for the Service:**
 1. Improve **data completeness** across all core performance metrics.  
