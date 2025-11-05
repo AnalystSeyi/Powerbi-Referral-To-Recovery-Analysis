@@ -39,8 +39,9 @@ Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment c
 - Introduce dashboards to flag missing treatment start records.  
 - Conduct staff retraining on data entry and process compliance.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Treatment Commencement Completeness](Dashboard_Screenshots/1-Treatment-Commencement-Completeness.png)
 
 ---
 
@@ -53,8 +54,9 @@ All referrals were received over a six-month period (January–June). Referral n
 - Investigate causes of referral spikes (e.g., seasonal trends or campaigns).  
 - Develop predictive dashboards to anticipate referral fluctuations.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Referral Volume Trend (January–June)](Dashboard_Screenshots/2-Referral-Volume-Trend-(January–June).png)
 
 ---
 
@@ -67,8 +69,9 @@ The most frequent referral reason is **“No Record”**, accounting for **34.71
 - Conduct regular data audits to identify missing entries.  
 - Provide staff training on accurate data input.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Most Common Reason for Referral](Dashboard_Screenshots/3-Most-Common-Reason-for-Referral.png)
 
 ---
 
@@ -81,8 +84,9 @@ Among patients with a recorded commencement date, **86.41%** completed treatment
 - Implement real-time alerts for cases approaching the 18-week threshold.  
 - Review scheduling efficiency and staff capacity to minimize delays.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![ On-Time Treatment Rate (Within 18 Weeks)](Dashboard_Screenshots/4-On-Time-Treatment-Rate-(Within-18-Weeks).png)
 
 ---
 
@@ -95,8 +99,9 @@ The percentage of patients starting treatment within 18 weeks **peaked at 100% i
 - Apply load balancing and capacity planning strategies.  
 - Introduce monthly KPI tracking dashboards to spot declining trends early.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![18-Week Wait Time Trend](5.-18-Week-Wait-Time-Trend-(January–November).png)
 
 ---
 
@@ -109,8 +114,9 @@ Patients referred for **Mixed Anxiety and Depressive Disorder** achieved the **h
 - Replicate best practices across lower-performing conditions.  
 - Maintain regular outcome monitoring for sustained improvement.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Best Recovery Rate by Referral Reason](6-Best-Recovery-Rate-by-Referral-Reason.png)
 
 ---
 
@@ -127,8 +133,9 @@ Only **2,880 of 11,501 patients (25%)** were eligible for discharge, with a **52
 - Standardize discharge procedures and ensure full data capture.  
 - Implement validation rules and automated data checks in Power BI.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Discharge Eligibility and Overall Recovery](7-Discharge-Eligibility-and-Overall-Recovery.png)
 
 ---
 
@@ -141,8 +148,9 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 - Strengthen post-treatment follow-up processes.  
 - Use predictive analytics to flag high-risk non-recovery cases.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![18 Week Wait Trend](Dashboard_Screenshots/18_week_trend.png)`
+📊 **Dashboard Screenshot**  
+
+![Recovery Rate Trend (January–December)](8-Recovery-Rate-Trend-(January–December).png)
 
 ---
 
