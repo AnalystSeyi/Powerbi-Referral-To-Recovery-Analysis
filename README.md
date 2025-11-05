@@ -24,7 +24,7 @@ The interactive **Power BI Dashboard** allows users to explore the data dynamica
 Users can drill down into time periods, referral reasons, and recovery outcomes for deeper insights.  
 
 A **static image preview** of the dashboard is provided below for reference:  
-📸 [**View Dashboard Image Preview**](Dashboard_Screenshots/Dashboard.jpg)  
+📸 ![**View Dashboard Image Preview**](Dashboard_Screenshots/Dashboard.jpg)  
 
 > _Note: The actual Power BI dashboard is dynamic — all visuals are interactive, enabling filtering, cross-highlighting, and time-based exploration._  
 
@@ -101,7 +101,7 @@ The percentage of patients starting treatment within 18 weeks **peaked at 100% i
 
 📊 **Dashboard Screenshot**  
 
-![18-Week Wait Time Trend](5.-18-Week-Wait-Time-Trend-(January–November).png)
+![18-Week Wait Time Trend](Dashboard_Screenshots/5.-18-Week-Wait-Time-Trend-(January–November).png)
 
 ---
 
@@ -116,7 +116,7 @@ Patients referred for **Mixed Anxiety and Depressive Disorder** achieved the **h
 
 📊 **Dashboard Screenshot**  
 
-![Best Recovery Rate by Referral Reason](6-Best-Recovery-Rate-by-Referral-Reason.png)
+![Best Recovery Rate by Referral Reason](Dashboard_Screenshots/6-Best-Recovery-Rate-by-Referral-Reason.png)
 
 ---
 
@@ -135,7 +135,7 @@ Only **2,880 of 11,501 patients (25%)** were eligible for discharge, with a **52
 
 📊 **Dashboard Screenshot**  
 
-![Discharge Eligibility and Overall Recovery](7-Discharge-Eligibility-and-Overall-Recovery.png)
+![Discharge Eligibility and Overall Recovery](Dashboard_Screenshots/7-Discharge-Eligibility-and-Overall-Recovery.png)
 
 ---
 
@@ -150,7 +150,7 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 
 📊 **Dashboard Screenshot**  
 
-![Recovery Rate Trend (January–December)](8-Recovery-Rate-Trend-(January–December).png)
+![Recovery Rate Trend (January–December)](Dashboard_Screenshots/8-Recovery-Rate-Trend-(January–December).png)
 
 ---
 
@@ -172,9 +172,9 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 - Introduce **Power BI completeness dashboards** to monitor data accuracy by team or month.  
 - Provide **training and accountability frameworks** for staff responsible for data entry.  
 
-📊 **Insert Dashboard Screenshot Here**  
-`![Data Quality Overview](Dashboard_Screenshots/data_quality_issues.png)`
-
+📊 **Dashboard Screenshot**  
+- All **screenshots** are above.
+  
 ---
 
 ## 🔟 Presenting Insights to Different Audiences
@@ -220,3 +220,13 @@ By improving data quality, monitoring KPIs consistently, and applying data-drive
 *Data Analyst | Power BI Developer*  
 📧 [analystseyi@gmail.com](mailto:analystseyi@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
+
+---
+
+### 📩 Additional Information
+If you would like to **access the dataset**, or learn more about **how this analysis was built in Power BI** — including the **DAX functions**, **data model design**, and **dynamic text features** that make the visuals respond to filters — please feel free to reach out.  
+
+You can contact me via **email** or send me a **message on LinkedIn**.  
+I’d be happy to share insights, walk through the Power BI logic, or collaborate on similar projects.
+
+---
