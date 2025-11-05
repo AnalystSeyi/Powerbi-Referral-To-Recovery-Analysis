@@ -146,7 +146,7 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 
 ---
 
-## 4️⃣ What other information would you highlight to the service lead? Are there any data quality issues or recommendations?
+## Highlighting Data Quality Issues and Recommendations to the Service Lead
 
 **Key Observations:**  
 - Only **2,880 out of 11,501 patients (25%)** were eligible for discharge.  
@@ -158,39 +158,52 @@ Recovery rates began around **45–50% early in the year**, peaked near **67% in
 - Missing treatment commencement data (30.84% unrecorded).  
 - Missing discharge and recovery documentation for 75% of patients.
 
-**Recommendation:**  
-- Perform **data quality audits** and enforce **standardized recording**.  
-- Implement **data validation rules** and **mandatory fields**.  
-- Introduce **Power BI completeness dashboards** by team or month.  
-- Provide **training and accountability** for staff responsible for data entry.  
+**Recommendations:**  
+- Perform **data quality audits** and enforce **standardized recording** practices.  
+- Implement **data validation rules** and make key data fields **mandatory**.  
+- Introduce **Power BI completeness dashboards** to monitor data accuracy by team or month.  
+- Provide **training and accountability frameworks** for staff responsible for data entry.  
 
 📊 **Insert Dashboard Screenshot Here**  
 `![Data Quality Overview](Dashboard_Screenshots/data_quality_issues.png)`
 
 ---
 
-## 4️⃣ What other information would you highlight to the service lead? Are there any data quality issues or recommendations?
-
-**Key Observations:**  
-- Only **2,880 out of 11,501 patients (25%)** were eligible for discharge.  
-- Of these, **1,519 patients (52.74%) recovered**, meeting the 50% target **only among discharged patients**.  
-- **75% of patients** lack discharge eligibility status — a major **data completeness issue**.
-
-**Data Quality Concerns:**  
-- Missing referral reasons (“No Record” = 34.71%).  
-- Missing treatment commencement data (30.84% unrecorded).  
-- Missing discharge and recovery documentation for 75% of patients.
-
-**Recommendation:**  
-- Perform **data quality audits** and enforce **standardized recording**.  
-- Implement **data validation rules** and **mandatory fields**.  
-- Introduce **Power BI completeness dashboards** by team or month.  
-- Provide **training and accountability** for staff responsible for data entry.  
-
-📊 **Insert Dashboard Screenshot Here**  
-`![Data Quality Overview](Dashboard_Screenshots/data_quality_issues.png)`
+## 5️⃣ Presenting Insights to Different Audiences
+| **Audience** | **Focus** | **Presentation Style** |
+|---------------|-----------|------------------------|
+| **Executives / Senior Management** | Strategic KPIs, overall trends, and improvement impact | High-level dashboards with summary metrics and short recommendations |
+| **Clinical Leads / Managers** | Service delivery performance and operational detail | Interactive Power BI visuals with drill-down capability |
+| **Data Quality / Governance Teams** | Data completeness and consistency | Detailed tables, validation metrics, and audit trends |
+| **Frontline Staff** | Importance of accurate data entry and outcomes tracking | Simplified visuals and examples showing real-world impact |
+| **External Regulators / Commissioners** | Compliance with targets (18-week & 50% recovery) | Formal reports with benchmarks, KPIs, and trend visualizations |
 
 ---
 
+## 🧠 Overall Summary
+This analysis shows that while discharged patients meet the 50% recovery target, incomplete data significantly limits visibility of total service performance.  
+On-time treatment rates and recovery outcomes **decline over time**, indicating operational challenges and inconsistent data entry.  
 
+**Key Actions for the Service:**
+1. Improve **data completeness** across all core performance metrics.  
+2. Enhance **operational planning** to sustain 18-week target performance.  
+3. Embed **real-time data validation and monitoring** in Power BI.  
+4. Ensure **regular feedback** between analytics, management, and clinical teams.
+
+---
+
+## ⚙️ Tools & Skills Demonstrated
+- **Power BI:** Data modeling, DAX measures, KPI visuals, and dashboard design.  
+- **Data Analysis:** Trend identification, benchmarking, and performance tracking.  
+- **Data Quality Management:** Missing data detection and completeness analysis.  
+- **Storytelling with Data:** Translating metrics into actionable recommendations.  
+- **Healthcare Analytics:** Monitoring referral-to-recovery patient journeys.
+
+---
+
+## 🧾 Conclusion
+This Power BI analysis demonstrates how visual analytics can transform raw healthcare data into actionable insights.  
+By improving data quality, monitoring KPIs consistently, and applying data-driven decision-making, healthcare services can strengthen both operational efficiency and patient outcomes.
+
+---
 
