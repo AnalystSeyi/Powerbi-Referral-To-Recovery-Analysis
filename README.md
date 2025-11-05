@@ -40,6 +40,6 @@ Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment c
 - Conduct staff retraining on data entry and process compliance.  
 
 📊 **Insert Dashboard Screenshot Here**  
-`![Referral Reason Chart](Dashboard_Screenshots/2.1 Treatment Commencement Completeness.png)`
+![Referral Reason Chart](Dashboard_Screenshots/2.1 Treatment Commencement Completeness.png)
 
 ---
