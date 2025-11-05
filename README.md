@@ -29,3 +29,17 @@ A **static image preview** of the dashboard is provided below for reference:
 > _Note: The actual Power BI dashboard is dynamic — all visuals are interactive, enabling filtering, cross-highlighting, and time-based exploration._  
 
 ---
+
+## 1️⃣ Treatment Commencement Completeness
+**Insight:**  
+Of **11,501 total patients**, only **7,954 (69.16%)** had a recorded treatment commencement date, leaving **30.84% unrecorded**. This suggests that nearly one-third of patient treatment data is incomplete, which can impact performance tracking, care continuity, and accurate reporting on treatment initiation rates. This incomplete data impedes accurate performance analysis.
+
+**Recommendation:**  
+- Enforce mandatory data capture for treatment commencement.  
+- Introduce dashboards to flag missing treatment start records.  
+- Conduct staff retraining on data entry and process compliance.  
+
+📊 **Insert Dashboard Screenshot Here**  
+`![Referral Reason Chart](Dashboard_Screenshots/2.1 Treatment Commencement Completeness.png)`
+
+---
