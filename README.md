@@ -18,3 +18,14 @@ The analysis should highlight key insights, trends, and data quality issues, usi
 This document summarizes the findings from the Power BI dashboard created to address these stakeholder requirements.
 
 ---
+
+## 🖥️ Power BI Dashboard Overview
+The interactive **Power BI Dashboard** allows users to explore the data dynamically — every visual element, including text components, is **clickable and filterable**.  
+Users can drill down into time periods, referral reasons, and recovery outcomes for deeper insights.  
+
+A **static image preview** of the dashboard is provided below for reference:  
+📸 [**View Dashboard Image Preview**](Dashboard_Screenshots/Dashboard.jpg)  
+
+> _Note: The actual Power BI dashboard is dynamic — all visuals are interactive, enabling filtering, cross-highlighting, and time-based exploration._  
+
+---
